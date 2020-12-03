@@ -24,3 +24,5 @@ Geely Auto: Built a linear regression model to understand the various factors af
 Help International: Performed K-means and hierarchical clustering after performing the EDA and applying the PCA concepts on the data to cluster the list of countries so that the NGO(Help International) can provide help for the countries that are in dire need of monetary help.
 
 Lead Score: Built a logistic regression model to assign a lead score between 0 to 100 to each of the leads which can be used by the company to target potential leads.
+
+Stock market analysis: Generated buy and sell signals based on the 20 and 50 day moving average. The idea was to identify the golden cross and the death cross as an indicator to buy and sell. The overall outcome of the analysis is to help with the decision to buys, sell or hold the stock.
